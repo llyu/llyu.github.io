@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome to IS3-Lab@ECNU
 
-The IS3 (**I**ntegrated **S**mart **S**ensor **S**ystems) Lab is from the school of communication & electonic engineering, East China Normal University (ECNU). Our reaserch intrests include:
+The IS3 (**I**ntegrated **S**mart **S**ensor **S**ystems) Lab is from the school of communication & electonic engineering, East China Normal University (ECNU). Our reaserch interests include:
 
 * Analog/Mixed-Signal IC
 * Wireless neural interface SoC
