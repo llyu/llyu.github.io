@@ -21,8 +21,8 @@ nav_order: 2
 
 ## Awards & Honnors
 
-* Best Student Paper Award, 2020 International Symposium on Circuits and Systems Conference (ISCAS) [[link]](https://news.fudan.edu.cn/2019/0604/c5a98330/page.htm)
-* Best Paper Award of BioCAS Track, 2019 International Symposium on Circuits and Systems Conference (ISCAS) [[link]](https://news.fudan.edu.cn/2020/1231/c5a107643/page.htm)
+* Best Student Paper Award, 2020 International Symposium on Circuits and Systems Conference (ISCAS) [[link]](https://news.fudan.edu.cn/2020/1231/c5a107643/page.htm)
+* Best Paper Award of BioCAS Track, 2019 International Symposium on Circuits and Systems Conference (ISCAS) [[link]](https://news.fudan.edu.cn/2019/0604/c5a98330/page.htm)
 
 ## Publications
 
